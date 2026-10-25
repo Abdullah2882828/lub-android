@@ -1,0 +1,6 @@
+{
+  "name": "لُب",
+  "description": "استخلاص مشاريع الأكواد والملفات من أي شاشة ومحادثة ورفعها إلى GitHub بضغطة واحدة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

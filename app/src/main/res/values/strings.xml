@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">لُب</string>
+    <string name="app_tagline">التقاط الكود واستخلاص الزبدة ورفعها لـ GitHub بضغطة واحدة</string>
+    <string name="accessibility_service_description">خدمة لُب لاستخلاص مشاريع الأكواد والملفات من شاشة الجهاز عند طلبك فقط، دون مراقبة مستمرة أو تسجيل.</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_basket">السلة</string>
+    <string name="nav_library">المكتبة</string>
+    <string name="nav_github">GitHub</string>
+    <string name="nav_settings">الإعدادات</string>
+    <string name="nav_diagnostics">التشخيص</string>
+
+    <!-- Quick Action -->
+    <string name="quick_capture_push">⚡ التقط وارفع</string>
+    <string name="capture_screen">📸 التقاط الشاشة</string>
+    <string name="capture_full_chat">📜 سحب المحادثة كاملة</string>
+    <string name="capture_clipboard">📋 من الحافظة</string>
+    <string name="open_lub">🚀 فتح لُب</string>
+    <string name="hide_panel">✖ إخفاء</string>
+
+    <!-- Status & Alerts -->
+    <string name="service_active">الخدمة نشطة والفقاعة جاهزة</string>
+    <string name="service_inactive">الخدمة غير مفعّلة - اضغط للتهيئة</string>
+    <string name="token_configured">حساب GitHub متصل</string>
+    <string name="token_missing">حساب GitHub غير متصل</string>
+</resources>
